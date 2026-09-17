@@ -1,0 +1,8 @@
+{
+  "name": "Remix SR Mall",
+  "description": "Modern e-commerce shopping app with trending products, smart categories, rich product details, wishlist, cart, trust badges, and fast checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
